@@ -1,10 +1,17 @@
-TP Visualisation de trajectoires
-Ben Ghachem Malek
+# AircraftRadar
+## Ben Ghachem Malek
 
+## Project setup
+```
+python3 -m http.server
+```
+
+## Disclaimer
 A noter qu'il faut appuyer sur Long Lat pour pouvoir switcher de type de visualisation.
 
 Ex: Pour voir l'histogramme par rapport au temps, cliquez sur Long Lat puis Traffic Histogram. Même chose si vous ajustez les sliders en étant sur une visualisation autre que Longitude Latitude, la visualisation par défaut sera Longitude Latitude et il faudra cliquer à nouveau sur la visualisation où vous étiez pour constater les changements
 
+## Features
 Features implantées:
 - Histogramme du traffic intéractif & réactif
 - ScatterPlot Lat/Long & Long/Alt intéractifs et réactifs
